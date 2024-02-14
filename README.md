@@ -24,7 +24,14 @@ Para configurar uma pesquisa, assim como seus insights, é necessário:
 
 - Após isso, criamos o indexador.
 
-- Tendo o indexador criado e configurado, podemos testar o mecanismo de pesquisa.
+- Tendo o indexador criado e configurado, podemos testar o mecanismo de pesquisa no "Search".
+
+Exemplo de Json:
+
+{
+ "search": "sentiment:'negative'",
+ "count": true
+}
 
   
 
