@@ -2,6 +2,7 @@
 Laboratório feito no Azure para aprender sobre Inteligência de Documentos e Mineração de Conhecimentos.
 
 Para configurar uma pesquisa, assim como seus insights, é necessário:
+
 -Criar um recurso de IA (Azure AI Services para automação), criar recurso de busca (AI Search) e uma Storage Account (armazenamentos dos dados em que vamos fazer a busca).
 
 -Após criar todos os recursos, devemos mudar as regras de segurança da Storage Account para permitir o acesso anônimo de blob. Após isso, devemos criar um container que vai armazenar os documentos da nossa pesquisa.
@@ -32,6 +33,17 @@ Exemplo de Json:
  "search": "sentiment:'negative'",
  "count": true
 }
+
+É importante ressaltar que esse tipo de ferramenta pode ajudar em muitos tipos de negócios. Por exemplo, você como dono de um negócio pode ver onde pode melhorar de acordo com os reviews negativos dos clientes. Outro exemplo são investigações, afinal você não precisaria mais ler um documento inteiro, tendo em vista que você pode pesquisar só os insights do documento.
+
+
+
+
+
+
+
+
+
 
   
 
