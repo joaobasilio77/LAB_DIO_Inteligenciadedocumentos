@@ -34,7 +34,7 @@ Exemplo de Json:
  "count": true
 }
 
-É importante ressaltar que esse tipo de ferramenta pode ajudar em muitos tipos de negócios. Por exemplo, você como dono de um negócio pode ver onde pode melhorar de acordo com os reviews negativos dos clientes. Outro exemplo são aS investigações, afinal você não precisaria mais ler um documento inteiro, tendo em vista que você pode pesquisar só os insights do documento.
+É importante ressaltar que esse tipo de ferramenta pode ajudar em muitos tipos de negócios. Por exemplo, você como dono de um negócio pode ver onde pode melhorar de acordo com os reviews negativos dos clientes. Outro exemplo são as investigações, afinal você não precisaria mais ler um documento inteiro, tendo em vista que você pode pesquisar só os insights do documento.
 
 
 
